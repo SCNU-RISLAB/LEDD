@@ -1,0 +1,6 @@
+train: /data/2022/xiaofu/Fatigue/images/trains  # train images (relative to 'path') 128 images
+val: /data/2022/xiaofu/Fatigue/images/vals # val images (relative to 'path') 128 images
+test: #
+# Classes
+nc: 7  # number of classes
+names: ['closed_eye', 'closed_mouth', 'open_eye', 'open_mouth', 'up_face', 'side_face', 'phone']  # class names
