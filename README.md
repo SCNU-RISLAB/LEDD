@@ -1,3 +1,3 @@
-# This is the code section for LEDD: A Lightweight and Efficient Detector for Fatigue and Distracted Driving Detection
+# This is the code section for MFDD: Multi-Scale Attention Fatigue and Distracted Driving Detector Based on Facial Features
 
 - The works we has used for reference including `YOLOv5s`（[code](https://github.com/ultralytics/yolov5)). Thanks for their wonderful works.
